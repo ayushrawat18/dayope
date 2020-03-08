@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>eric.williams@snc</sys_created_by>
+        <sys_created_on>2019-09-17 17:27:53</sys_created_on>
+        <sys_id>60299d40db4c84509c69f8231f96195f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_cmp_rof_resource_operation_filter.x_snc_cmp_rof.resource_operation_filter_user</sys_name>
+        <sys_package display_value="CMP Resource Operation Filters" source="x_snc_cmp_rof">0cf85140db4c84509c69f8231f96199f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMP Resource Operation Filters">0cf85140db4c84509c69f8231f96199f</sys_scope>
+        <sys_security_acl display_value="x_snc_cmp_rof_resource_operation_filter">60299d40db4c84509c69f8231f96195c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_60299d40db4c84509c69f8231f96195f</sys_update_name>
+        <sys_updated_by>eric.williams@snc</sys_updated_by>
+        <sys_updated_on>2019-09-17 17:27:53</sys_updated_on>
+        <sys_user_role display_value="x_snc_cmp_rof.resource_operation_filter_user" name="x_snc_cmp_rof.resource_operation_filter_user">5c299d40db4c84509c69f8231f96194d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

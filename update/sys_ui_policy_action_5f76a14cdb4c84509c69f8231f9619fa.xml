@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>false</disabled>
+        <field>logical_datacenters</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>eric.williams@snc</sys_created_by>
+        <sys_created_on>2019-09-17 18:26:29</sys_created_on>
+        <sys_id>5f76a14cdb4c84509c69f8231f9619fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>logical_datacenters</sys_name>
+        <sys_package display_value="CMP Resource Operation Filters" source="x_snc_cmp_rof">0cf85140db4c84509c69f8231f96199f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMP Resource Operation Filters">0cf85140db4c84509c69f8231f96199f</sys_scope>
+        <sys_update_name>sys_ui_policy_action_5f76a14cdb4c84509c69f8231f9619fa</sys_update_name>
+        <sys_updated_by>eric.williams@snc</sys_updated_by>
+        <sys_updated_on>2019-09-17 18:26:29</sys_updated_on>
+        <table>x_snc_cmp_rof_resource_operation_filter</table>
+        <ui_policy display_value="Show logical datacenters">9a56614cdb4c84509c69f8231f961905</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

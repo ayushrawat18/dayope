@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_op_impl">
+    <sn_cmp_rb_op_impl action="INSERT_OR_UPDATE">
+        <interface display_value="EWTest Resource Interface">7bc5e4e4dba1b700e68af05e0f9619c2</interface>
+        <operation display_value="Reassign">0f216b37db6844109c69f8231f96193a</operation>
+        <operation_output_attributes/>
+        <resource display_value="EWTest Blueprint Resource">fbc5e4e4dba1b700e68af05e0f9619c4</resource>
+        <sys_class_name>sn_cmp_rb_op_impl</sys_class_name>
+        <sys_created_by>eric.williams@snc</sys_created_by>
+        <sys_created_on>2019-10-24 15:30:52</sys_created_on>
+        <sys_id>4b216b37db6844109c69f8231f96193e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0f216b37db6844109c69f8231f96193a</sys_name>
+        <sys_package display_value="CMP Resource Operation Filters" source="x_snc_cmp_rof">0cf85140db4c84509c69f8231f96199f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMP Resource Operation Filters">0cf85140db4c84509c69f8231f96199f</sys_scope>
+        <sys_update_name>sn_cmp_rb_op_impl_4b216b37db6844109c69f8231f96193e</sys_update_name>
+        <sys_updated_by>eric.williams@snc</sys_updated_by>
+        <sys_updated_on>2019-10-24 15:30:52</sys_updated_on>
+    </sn_cmp_rb_op_impl>
+</record_update>
